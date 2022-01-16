@@ -1,6 +1,9 @@
 # TheWik
 
-Yo this is stuff I'm writing, nusto
-
-
-oh okay I can see it here dope
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
