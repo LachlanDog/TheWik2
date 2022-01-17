@@ -1,9 +1,9 @@
 # World
-[People](https://lachlandog.github.io/TheWik/NPCs/index)
+[People](https://lachlandog.github.io/TheWik/People/1Index)
 
 [Places](https://lachlandog.github.io/TheWik/Places/Index)
 
-[Things](https://lachlandog.github.io/TheWik/Things)
+[Things](https://lachlandog.github.io/TheWik/Things/Index)
 
 # Quests
 [Main](https://lachlandog.github.io/TheWik/MainQuest)
