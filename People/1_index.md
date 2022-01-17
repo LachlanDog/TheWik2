@@ -1,6 +1,6 @@
 | Name                                                                   | Quick Description |
 | ---------------------------------------------------------------------- | ----------------- |
-| [Aloy](https://lachlandog.github.io/TheWik/People/Aloy)               |                   |
+| [Aloy](https://github.com/LachlanDog/TheWik/blob/main/People/Aloy.md)               |                   |
 | [Avandra](https://lachlandog.github.io/TheWik/People/Avandra)         |                   |
 | [BuffleWump](https://lachlandog.github.io/TheWik/People/BuffleWump)   |                   |
 | [Candlemaker](https://lachlandog.github.io/TheWik/People/Candlemaker) |                   |
