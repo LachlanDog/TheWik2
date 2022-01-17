@@ -1,7 +1,7 @@
 # World
 [People](https://lachlandog.github.io/TheWik/People/1_index)
 
-[Places](https://lachlandog.github.io/TheWik/Places/Index)
+[Places](https://lachlandog.github.io/TheWik/Places/1_index)
 
 [Things](https://lachlandog.github.io/TheWik/Things/Index)
 
