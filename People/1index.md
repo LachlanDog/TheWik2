@@ -1,14 +1,14 @@
 | Name                                                                   | Quick Description |
 | ---------------------------------------------------------------------- | ----------------- |
-| [Aloy](https://lachlandog.github.io/TheWik/NPCs/Aloy)               |                   |
-| [Avandra](https://lachlandog.github.io/TheWik/NPCs/Avandra)         |                   |
-| [BuffleWump](https://lachlandog.github.io/TheWik/NPCs/BuffleWump)   |                   |
-| [Candlemaker](https://lachlandog.github.io/TheWik/NPCs/Candlemaker) |                   |
-| [Demi](https://lachlandog.github.io/TheWik/NPCs/Demi)               |                   |
-| [Dendar](https://lachlandog.github.io/TheWik/NPCs/Dendar)           |                   |
-| [Dimitrius](https://lachlandog.github.io/TheWik/NPCs/Dimitrius)     |                   |
-| [Erzof](https://lachlandog.github.io/TheWik/NPCs/Erzof)             |                   |
-| [Grossie](https://lachlandog.github.io/TheWik/NPCs/Grossie)         |                   |
+| [Aloy](https://lachlandog.github.io/TheWik/People/Aloy)               |                   |
+| [Avandra](https://lachlandog.github.io/TheWik/People/Avandra)         |                   |
+| [BuffleWump](https://lachlandog.github.io/TheWik/People/BuffleWump)   |                   |
+| [Candlemaker](https://lachlandog.github.io/TheWik/People/Candlemaker) |                   |
+| [Demi](https://lachlandog.github.io/TheWik/People/Demi)               |                   |
+| [Dendar](https://lachlandog.github.io/TheWik/People/Dendar)           |                   |
+| [Dimitrius](https://lachlandog.github.io/TheWik/People/Dimitrius)     |                   |
+| [Erzof](https://lachlandog.github.io/TheWik/People/Erzof)             |                   |
+| [Grossie](https://lachlandog.github.io/TheWik/People/Grossie)         |                   |
 |                                                                        |                   |
 |                                                                        |                   |
 |                                                                        |                   |
