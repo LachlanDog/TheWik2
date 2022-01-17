@@ -1,0 +1,25 @@
+---
+tags: [" #0 "]
+Aliases:
+- 
+---
+2021-11-01-(07-24)
+
+---
+
+
+![[Screenshot (60) 1.png]]
+
+Chaotic, not sure if there's any rules.
+
+Not an [[abyss plane]] of hell, but can be nightmarish.
+
+Weird shifty, sometimes hear music and then it's gone...
+
+See stairs going up and down...
+
+Nothing constant 
+
+2021-11-28-(11-12)
+What we think we create? Or at least can fly
+
