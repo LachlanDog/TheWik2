@@ -1,5 +1,5 @@
 # World
-[People](https://lachlandog.github.io/TheWik/NPCs/NPCindex)
+[People](https://lachlandog.github.io/TheWik/NPCs/1NPCindex)
 
 [Places](https://lachlandog.github.io/TheWik/Places/Index)
 
