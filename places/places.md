@@ -1,8 +1,0 @@
-[Ash & Dust Arena](TheWik-main/places/Ash%20&%20Dust%20Arena.md)
-[Fat Dragon Inn](TheWik-main/places/Fat%20Dragon%20Inn.md)
-[Frost Giant Fortress](TheWik-main/places/Frost%20Giant%20Fortress.md)
-[KoThemar](TheWik-main/places/KoThemar.md)
-[Kurnfaldur (West Capital)](TheWik-main/places/Kurnfaldur%20(West%20Capital).md)
-[Sime Tolic (East Capital)](TheWik-main/places/Sime%20Tolic%20(East%20Capital).md)
-[Nymthalas](TheWik-main/places/Nymthalas.md)
-[the Immortal Sanctum](TheWik-main/places/the%20Immortal%20Sanctum.md)
