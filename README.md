@@ -1,3 +1,5 @@
+Oh snap son
+
 # Quests
 [Main Quest](Quests/Main%20Quest.md)
 
