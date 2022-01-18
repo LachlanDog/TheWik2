@@ -1,27 +1,27 @@
-# World
-[People](https://github.com/LachlanDog/TheWik/blob/main/People/1_index.md)
-
-[Places](https://lachlandog.github.io/TheWik/Places/1_index.md)
-
-[Things](https://lachlandog.github.io/TheWik/Things/Index)
-
 # Quests
-[Main](https://lachlandog.github.io/TheWik/MainQuest)
+[[Main]]
 
-[Other](https://lachlandog.github.io/TheWik/Quests/Index)
+[[Other]]
+
+# World
+[[People]] -> [[1_index_people]]
+
+[[Places]] -> [[1_index_places]]
+
+[[Things]] -> [[1_index_things]]
 
 # Party
-Briza
+[[briza]]
 
-Lachlan
+[[Holmgren]]
 
-Holmgren
+[[Lachlan]]
 
-Varenzai
+[[varenzai]]
 
-Vola
+[[Vola]]
 
 ## More
-Jadzia
+[[Jadzia]]
 
-Magical Items
+[[History of Shenanigans]]
