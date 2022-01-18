@@ -12,7 +12,7 @@ Location: [[Nymthalas]]
 ---
 
 [[Session 2021.08.22 Dining & Dashing r]]  -> [[Scourge the Undying]] | 2022-01-17
-As we enter arena is very echoey, and there’s a whistling tune
+As we enter arena is very echoey, and there s a whistling tune
 
 We need to talk to **Scourge the Undying -- basically a Hylek**
 
@@ -22,6 +22,6 @@ A very small green frog dude steps out with a walking stick with braided leafs a
 
 His mother is there too, also named Scourge, she has a blue cookie tin (probably for sewing)
 
-He’s quite nice and very excited to sign us up
+He s quite nice and very excited to sign us up
 
 ---
