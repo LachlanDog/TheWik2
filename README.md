@@ -15,7 +15,7 @@
 
 [[Holmgren]]
 
-[[Lachlan]]
+[Lachlan](Lachlan.md)
 
 [[varenzai]]
 
