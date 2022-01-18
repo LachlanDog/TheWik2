@@ -16,7 +16,7 @@
 | [[Jerome]]                                                              |                   |
 | [[Jadzia]] Bronzerock                                                   |                   |
 | [[Kala]]                                                                |                   |
-| [Krampus](TheWik-main/people/Krampus.md)                                |                   |
+| [Krampus](Krampus.md)                                |                   |
 | [[Lonny]]                                                               |                   |
 | [[Lyregren]]                                                            |                   |
 | [[Nimbus]]                                                              |                   |
