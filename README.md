@@ -1,5 +1,5 @@
 # Quests
-[[Main]]
+[Main](Main.md)
 
 [[Other]]
 
@@ -19,7 +19,7 @@
 
 [[varenzai]]
 
-[[Vola]]
+[[vola]]
 
 ## More
 [[Jadzia]]
