@@ -1,21 +1,23 @@
 # Quests
-[Main Quest](Website%20Navigation/Quests/Main%20Quest.md)
+[Main_Quest](Website_Navigation/Quests/Main_Quest.md)
 
-[Sidequest List](Website%20Navigation/Quests/Sidequests/Sidequest%20List.md)
+[Sidequest_List](Website_Navigation/Quests/Sidequests/Sidequest_List.md)
 
 # World
-[People](Website%20Navigation/people.md)
+[People](Website_Navigation/people.md)
 
-[Places](Website%20Navigation/places.md)
+[Places](Website_Navigation/places.md)
 
-[Things](Website%20Navigation/things.md)
+[Things](Website_Navigation/things.md)
+
+[timeline](World/Timeline/timeline.md)
 
 # Party
 [Briza](people/briza.md)
 
 [Holmgren](people/Holmgren.md)
 
-[Lachlan Willows](people/Lachlan%20Willows.md)
+[Lachlan Willows](people/Lachlan_Willows.md)
 
 [Varenzai](people/Varenzai.md)
 
