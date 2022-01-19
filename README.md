@@ -1,31 +1,33 @@
-Oh snap son
-
 # Quests
-[Main Quest](Quests/Main%20Quest.md)
+[Main Quest](Website%20Navigation/Quests/Main%20Quest.md)
 
-[Sidequests List](Quests/Sidequests/Sidequests%20List.md)
+[Sidequest List](Website%20Navigation/Quests/Sidequests/Sidequest%20List.md)
 
 # World
-[people](people/people.md)
+[People](Website%20Navigation/people.md)
 
-[places](places/places.md)
+[Places](Website%20Navigation/places.md)
 
-[things](things/things.md)
-
-[timeline](World/Timeline/timeline.md)
+[Things](Website%20Navigation/things.md)
 
 # Party
-[briza](people/briza.md)
+[Briza](people/briza.md)
 
 [Holmgren](people/Holmgren.md)
 
-[Lachlan](people/Lachlan.md)
+[Lachlan Willows](people/Lachlan%20Willows.md)
 
-[varenzai](people/varenzai.md)
+[Varenzai](people/Varenzai.md)
 
-[vola](people/vola.md)
+[Vola](people/vola.md)
 
 ## More
-[Jadzia](people/Jadzia.md)
+[Jadzia Bronzerock](people/Jadzia%20Bronzerock.md)
 
 [[History of Shenanigans]]
+
+## Session Notes
+### Brian
+
+
+### Matteo
