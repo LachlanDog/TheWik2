@@ -1,7 +1,7 @@
 # Quests
-[Main_Quest](Website_Navigation/Quests/Main_Quest.md)
+[Main Quest](Website_Navigation/Quests/Main_Quest.md)
 
-[Sidequest_List](Website_Navigation/Quests/Sidequests/Sidequest_List.md)
+[Sidequest List](Website_Navigation/Quests/Sidequests/Sidequest_List.md)
 
 # World
 [People](Website_Navigation/people.md)
@@ -24,7 +24,7 @@
 [Vola](people/vola.md)
 
 ## More
-[Jadzia Bronzerock](people/Jadzia%20Bronzerock.md)
+[Jadzia Bronzerock](people/Jadzia_Bronzerock.md)
 
 [[History of Shenanigans]]
 
