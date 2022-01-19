@@ -8,11 +8,11 @@ Aliases:
 ---
 
 People:
-- [[Scourge the Undying]]
-- [[King Thra’maluil]]
+- [[../people/Scourge_Undying]]
+- [[../people/King_Thra’maluil]]
 
 Places:
-- [[Fat Dragon Inn]]
+- [[Fat_Dragon_Inn]]
 - Arena
 - Ivory Point - Fancier district, less commercial
 - Opal Towers - Fancy shops
@@ -20,7 +20,7 @@ Places:
 Things:
 - [[Godvale]]
 
- [[King Thra’maluil]]
+ [[../people/King_Thra’maluil]]
 Lost wife, dead...
 
 Kings kids arent "all there" mentaly?

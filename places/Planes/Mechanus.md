@@ -15,7 +15,7 @@ People:
 Places:
 
 Things:
-[[Known portals in Mechanus]]
+[[../../things/Mechanus_Portals]]
 
 #
 ---

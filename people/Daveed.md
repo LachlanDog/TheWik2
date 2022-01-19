@@ -1,7 +1,7 @@
 Race: Half-Orc
-Faction: [[Company Zero]]
+Faction: [[Company_Zero]]
 Age:
-Links: [Jadzia Bronzerock](Jadzia%20Bronzerock.md)
+Links: [Jadzia_Bronzerock](Jadzia_Bronzerock.md)
 
 
 ---

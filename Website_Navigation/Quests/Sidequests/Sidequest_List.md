@@ -16,6 +16,6 @@
 |              |      |        |        |
 
 
-[Leyline Crisis](../../../things/Leyline%20Crisis.md) -> Entheri being jerks
+[Leyline_Crisis](../../../things/Leyline_Crisis.md) -> Entheri being jerks
 [Godvale](../../../things/Godvale.md) -> Thera Resurrection
-[Erna Wolf Poem](../../../things/Erna%20Wolf%20Poem.md) -> Wolves
+[Erna_Wolf_Poem](../../../things/Erna_Wolf_Poem.md) -> Wolves

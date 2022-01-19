@@ -1,7 +1,7 @@
 Race: Gnome
 Faction: [[Nymthalas]]?
 Age: ???
-Location: [[Frost Giant Fortress]]
+Location: [[../places/Frost_Giant_Fortress]]
 
 
 

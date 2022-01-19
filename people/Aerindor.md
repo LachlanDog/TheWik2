@@ -5,9 +5,9 @@ Faction: [[airship crew]]
 Navigator of airship
 
 
-# [[../Website Navigation/Quests/Sidequests/Sidequest List]]
+# [[../Website_Navigation/Quests/Sidequests/Sidequest_List]]
 Made a deal with **Aerindor** for **[[Walkie-Talkie Earrings]]**
--   Go to [[Sime Tolic (East Capital)]] or [[Kurnfaldur (West Capital)]]
+-   Go to [[../places/Sime_Tolic_East Capital]] or [[../places/Kurnfaldur_West_Capital]]
 -   She gave us something to deliver to either a goblin named Gring Jo or a dragonborn named Kaleb
 
 
@@ -27,7 +27,7 @@ I try to verify where we’re going and make my own notations on [[Aerindor]]’
 [[Session 2020.10.25 r]] -> [[Aerindor]] | 2022-01-18
 Deal with **Aerindor** for **[[Walkie-Talkie Earrings]]**
 
--   Go to [[Sime Tolic (East Capital)]] or [[Kurnfaldur (West Capital)]]
+-   Go to [[../places/Sime_Tolic_East Capital]] or [[../places/Kurnfaldur_West_Capital]]
     
 -   She gave us something to deliver to either a goblin named Gring Jo or a dragonborn named Kaleb
 

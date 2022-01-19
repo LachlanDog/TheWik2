@@ -1,6 +1,6 @@
 [Daveed](TheWik-main/people/Daveed.md)
 [Jerome](../Jerome.md)
-[Jadzia Bronzerock](../Jadzia%20Bronzerock.md)
+[Jadzia_Bronzerock](../Jadzia_Bronzerock.md)
 
 their old leader?
 

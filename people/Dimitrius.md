@@ -1,7 +1,7 @@
 Race: Dragonborn
 Faction: N/A
 Age:
-Location: [[the Immortal Sanctum]]
+Location: [[../places/Immortal_Sanctum]]
 
 
 ---

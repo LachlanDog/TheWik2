@@ -78,7 +78,7 @@ Briza worships [[Thrin]] (or at least her Frost Giants do)
 ---
 
 [[Session 2020.08.16 The Closed Day r]] -> [[briza]] | 2022-01-18
-Briza attuned to [[../things/the fan]].
+Briza attuned to [[../things/fan]].
 
 ---
 

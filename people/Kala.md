@@ -1,5 +1,5 @@
 Race: Drow
-Faction: [[King Thra’maluil]]
+Faction: [[King_Thra’maluil]]
 Age:
 Location: [[Nymthalas]]
 

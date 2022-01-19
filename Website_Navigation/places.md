@@ -1,25 +1,25 @@
 ## Nymthalas
 [Nymthalas](TheWik-main/places/Nymthalas.md)
-[Ash & Dust Arena](TheWik-main/places/Ash%20&%20Dust%20Arena.md)
+[Ash_Dust_Arena](../places/Ash_Dust_Arena.md)
 
 
 
 
 ## Kothemar
 [KoThemar](TheWik-main/places/KoThemar.md)
-[Gilded Pillow](../places/Gilded%20Pillow.md)
-[Fat Dragon Inn](TheWik-main/places/Fat%20Dragon%20Inn.md)
-[Kira s Habadasherie and Clothing](../places/Kira%20s%20Habadasherie%20and%20Clothing.md)
+[Gilded_Pillow](../places/Gilded_Pillow.md)
+[Fat_Dragon_Inn](../places/Fat_Dragon_Inn.md)
+[Kira_Habadasherie_Clothing](../places/Kira_Habadasherie_Clothing.md)
 
 
 [Bhalgozul](../places/Bhalgozul.md)
-[Frost Giant Fortress](TheWik-main/places/Frost%20Giant%20Fortress.md)
-[Kurnfaldur (West Capital)](TheWik-main/places/Kurnfaldur%20(West%20Capital).md)
-[Sime Tolic (East Capital)](TheWik-main/places/Sime%20Tolic%20(East%20Capital).md)
-[The Immortal Sanctum](TheWik-main/places/the%20Immortal%20Sanctum.md)
+[Frost_Giant_Fortress](../places/Frost_Giant_Fortress.md)
+[Kurnfaldur_West_Capital](../places/Kurnfaldur_West_Capital.md)
+[Sime_Tolic_East Capital](../places/Sime_Tolic_East%20Capital.md)
+[The Immortal Sanctum](../places/Immortal_Sanctum.md)
 
 # Planes
-[Abysal plane](../places/Planes/abyss%20plane.md)
-[Dream Plane](../places/Planes/Dream%20Plane.md)
+[Abysal plane](../places/Planes/abyss_plane.md)
+[Dream_Plane](../places/Planes/Dream_Plane.md)
 [Feywild](../places/Planes/Feywild.md)
 [Mechanus](../places/Planes/Mechanus.md)

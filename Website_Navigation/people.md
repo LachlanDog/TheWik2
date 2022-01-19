@@ -11,10 +11,10 @@
 | [Dimitrius](../people/Dimitrius.md)                         |                   |
 | [Erzof](../people/Erzof.md)                                 |                   |
 | [Grossie](../people/Grossie.md)                             |                   |
-| [Brene Gorel](../people/Brene%20Gorel.md)                   |                   |
+| [Brene_Gorel](../people/Brene_Gorel.md)                   |                   |
 | [Isabella](../people/Isabella.md)                           |                   |
 | [Jerome](../people/Jerome.md)                               |                   |
-| [Jadzia Bronzerock](../people/Jadzia%20Bronzerock.md)                               |                   |
+| [Jadzia_Bronzerock](../people/Jadzia_Bronzerock.md)                               |                   |
 | [Kala](../people/Kala.md)                                   |                   |
 | [Krampus](../people/Krampus.md)                             |                   |
 | [Octavius](../people/Octavius.md)                           |                   |
@@ -22,7 +22,7 @@
 | [[Queen O'iara]]                                            |                   |
 | [[Rosie]]                                                   |                   |
 | [Roxanne](../people/Roxanne.md)                             |                   |
-| [Scourge the Undying](../people/Scourge%20the%20Undying.md) |                   |
+| [Scourge_Undying](../people/Scourge_Undying.md) |                   |
 | [[Scurja]]                                                  |                   |
 | [[King Thra'maluil]]                                        |                   |
 | [urithana](../people/urithana.md)                           |                   |

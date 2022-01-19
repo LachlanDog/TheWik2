@@ -15,7 +15,7 @@
 
 ---
 
-[[Session 2021.11.14 The Dream Realm r]] -> [[Lachlan Willows]] | 2022-01-17
+[[Session 2021.11.14 The Dream Realm r]] -> [[Lachlan_Willows]] | 2022-01-17
 **Lachlan Vision**
 
 From his days on **The Drunkard’s Waltz** -- Gambling/Pleasure boat that he was on
@@ -72,7 +72,7 @@ Upheaval leaving the boat -- it wasn’t just a big life change, but also he was
 
 ---
 
-[[Session 2021.08.14 The Relaxation Grotto r]] -> [[Lachlan Willows]] | 2022-01-17
+[[Session 2021.08.14 The Relaxation Grotto r]] -> [[Lachlan_Willows]] | 2022-01-17
 Brian remembers he wants to fill Clay in on the deal Lachlan made to save Holmgren
 
 -   They do a quick description and RP of how/when it happened
@@ -87,7 +87,7 @@ Brian remembers he wants to fill Clay in on the deal Lachlan made to save Holmgr
 #
 ---
 
-[[Session 2021.07.11 The Funeral of Holmgren Grenwold r]] -> [[Lachlan Willows]] | 2022-01-18
+[[Session 2021.07.11 The Funeral of Holmgren Grenwold r]] -> [[Lachlan_Willows]] | 2022-01-18
 ---
 
 [[Session 2021.07.11 The Funeral of Holmgren Grenwold r]] -> [[urithana]] | 2022-01-18
@@ -113,7 +113,7 @@ Lachlan agrees and Holmgren immediately wakes back up.
 #
 ---
 
-[[Session 2021.06.06 The Resurrection of Jadzia Bronzerock r]] -> [[Lachlan Willows]] | 2022-01-18
+[[Session 2021.06.06 The Resurrection of Jadzia Bronzerock r]] -> [[Lachlan_Willows]] | 2022-01-18
 ### Lachlan
 
 Reads & tries to decipher Mrs. Willows journal
@@ -126,7 +126,7 @@ Basically establishes it’s some kind code not meant to be broken, so will need
 #
 ---
 
-[[Session 2021.05.23 Exploring the Feywild r]] -> [[Lachlan Willows]] | 2022-01-18
+[[Session 2021.05.23 Exploring the Feywild r]] -> [[Lachlan_Willows]] | 2022-01-18
 Lachlan: That vision was my ‘friend’, was for me
 
 ---
@@ -135,7 +135,7 @@ Lachlan: That vision was my ‘friend’, was for me
 #
 ---
 
-[Session 2020.06.21After the meteors and after the vulture r](../sessions/notes_matteo_brianedit/Session%202020.06.21After%20the%20meteors%20and%20after%20the%20vulture%20r.md) -> [Lachlan Willows](Lachlan%20Willows.md) | 2022-01-19
+[Session 2020.06.21After the meteors and after the vulture r](../sessions/notes_matteo_brianedit/Session%202020.06.21After%20the%20meteors%20and%20after%20the%20vulture%20r.md) -> [Lachlan_Willows](Lachlan_Willows.md) | 2022-01-19
 -   A lot of the crew is there with us -- Gryphon starts talking with Lachlan about Mz. Willow, his former owner -- Gryphon is asking questions about her, where is she now for some reason, they say they gave her the collar she gave Lachlan
     
 -   They say they last saw her at Sundertos Port, and Lachlan says he remembers a ship the Drunkard’s Waltz

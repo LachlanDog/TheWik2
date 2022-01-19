@@ -1,7 +1,7 @@
 Race: Dragonborn
 Faction: N/A
 Age: 14 
-Location: [[the Immortal Sanctum]]
+Location: [[../places/Immortal_Sanctum]]
 Links: [Dimitrius](Dimitrius.md)
 
 
