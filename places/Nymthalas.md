@@ -111,3 +111,14 @@ They say it’s ‘lent’ right now in Nythm’Thalas, they’re being boring, 
 **Aerindor** says we wouldn’t be arrested or anything when we arrived at **Nythm’Thalas**, but it wouldn’t be like a warm reception or anything. She says we’ll be fine so long as we “Don’t insult the big guy, don’t insult his wife”.
 
 ---
+
+
+#
+---
+
+[Session 2020.08.09 The End of Secrets r](../sessions/notes_matteo_brianedit/Session%202020.08.09%20The%20End%20of%20Secrets%20r.md) -> [Nymthalas](TheWik-main/places/Nymthalas.md) | 2022-01-19
+## Coronet --
+
+the artifact in Nym’Thalas, Jadzia called it this
+
+---

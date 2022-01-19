@@ -12,7 +12,7 @@ Location: [[Nymthalas]]
 
 [[Lonny]]'s aunt?
 
-Kala is a general in Elf city [[Nimthalas]] (?) . 
+Kala is a general in Elf city [Nymthalas](../places/Nymthalas.md) (?) . 
 
 Was in Briza's Ice dragon bones place with us.
 

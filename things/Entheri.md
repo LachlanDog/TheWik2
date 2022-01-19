@@ -69,3 +69,5 @@ I share with party a bit more about my backstory, fighting in resistance and stu
         -   Later it will be revealed he was probably not just joking around
 
 ---
+
+#varenzai #Elysius #elyra

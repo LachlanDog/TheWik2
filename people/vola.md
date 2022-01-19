@@ -25,7 +25,7 @@ They continue having an adorable touching conversation, Vola says she misses the
 ---
 
 [[Session 2020.10.25 r]] -> [[vola]] | 2022-01-18
-**Vola** is from **[[Bhalgozul]]**
+**Vola** is from **[[../places/Bhalgozul]]**
 
 ---
 
@@ -35,5 +35,27 @@ They continue having an adorable touching conversation, Vola says she misses the
 
 [[Session 2020.08.16 The Closed Day r]] -> [[vola]] | 2022-01-18
 Vola got a pet pikachu she named Volta.
+
+---
+
+
+#
+---
+
+[Session 2020.08.09 The End of Secrets r](../sessions/notes_matteo_brianedit/Session%202020.08.09%20The%20End%20of%20Secrets%20r.md) -> [vola](TheWik-main/people/vola.md) | 2022-01-19
+Vola wakes up in the middle of the night, surrounded by darkness but feeling calm and focused.
+
+She realises she’s in something that’s as close as to what she understands to be ‘Nirvana’ She gets an intense focus on the Ticking of his Clockwork Heart.
+
+---
+
+
+#
+---
+
+[Session 2020.08.09 The End of Secrets r](../sessions/notes_matteo_brianedit/Session%202020.08.09%20The%20End%20of%20Secrets%20r.md) -> [vola](TheWik-main/people/vola.md) | 2022-01-19
+Had a nice home and upbringing but wanted to see the world. Trained as a blacksmith from as long as she could hold tools, good at it, but good fighter too. Always loved animals. Had a close friend, could have been something more, but they left for some reason (just moving as people do, not a big force pushing them out), so she said after that there were less reasons for her to stay, she wanted to travel and adventure before settling down.
+
+Vola Friend: **Brene Gorel**
 
 ---

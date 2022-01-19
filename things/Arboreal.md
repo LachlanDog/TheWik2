@@ -16,3 +16,12 @@ We go to the fortress entrance and Briza waves to Kala. As she approaches I noti
 Arboreals all over, keep to themselves, goodhearted
 
 ---
+
+
+#
+---
+
+[Session 2020.03.22 r](../sessions/notes_matteo_brianedit/Session%202020.03.22%20r.md) -> [Arboreal](TheWik-main/things/Arboreal.md) | 2022-01-19
+Arboreals: Plant race throughout the arctic, masters of stealth, wilds. Mostly hunters, keep to themselves
+
+---

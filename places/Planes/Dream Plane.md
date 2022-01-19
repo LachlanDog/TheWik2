@@ -8,7 +8,7 @@ Aliases:
 ---
 
 
-![[Screenshot (60) 1.png]]
+![[../../Attachments/Screenshot (60) 1.png]]
 
 Chaotic, not sure if there's any rules.
 

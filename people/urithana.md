@@ -26,7 +26,7 @@ Lachlan tries to offer to surrender his personal quest for vengeance to kill the
 
 -”A life for a life is a trade. But, I have already given you a life, but you have already taken.”
 
-“I will accept your proposal, with an addition. You must do as you say, but you must also dedicate yourself to instilling this same value as him *points to Holmgren* within your lifetime.”
+“I will accept your proposal, with an addition. You must do as you say, but you must also dedicate yourself to instilling this same value as him *points to [[Holmgren]]* within your lifetime.”
 
 LACHLAN GOTTA BECOME HOLMGREN’S SPIRIT GUIDE -- stop his quest for revenge against the spirit guardian.
 
