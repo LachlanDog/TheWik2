@@ -1,3 +1,6 @@
+Link: [Zanzibar](Zanzibar.md) sister
+
+
 # Holmgren
 
 Old Religion God: Eldath
@@ -84,6 +87,44 @@ Holmgren is bloodthirsty, smearing blood on his tabard and drowning in a pool to
 ---
 
 [[Session 2020.08.16 The Closed Day r]] -> [[Holmgren]] | 2022-01-18
-Holmgren is attuning with the [[conch]].
+Holmgren is attuning with the [[../things/conch]].
+
+---
+
+
+#
+---
+
+[Session 2020.07.12 Holmgren the Devil Worshipper r](../sessions/notes_matteo_brianedit/Session%202020.07.12%20Holmgren%20the%20Devil%20Worshipper%20r.md) -> [Holmgren](TheWik-main/people/Holmgren.md) | 2022-01-19
+Holmgren doesn’t know what god he worships -- Lachlan reveals it’s [[Umberlee]] (The Bitch Queen), an evil sea goddess -- destructive and vengeful to both those who love and hate her.
+
+---
+
+
+#
+---
+
+[Session 2020.06.28 Death & Consequences r](../sessions/notes_matteo_brianedit/Session%202020.06.28%20Death%20&%20Consequences%20r.md) -> [Holmgren](TheWik-main/people/Holmgren.md) | 2022-01-19
+Holmgren trips out in his room in [Sun & Cidre](Sun%20&%20Cidre). Has a drug vision of Zanzibar, she brought him a head in a bag -- the decayed head of Laddy Mook, his headmistress from the orphanage.
+
+While we’re in the lobby a torrent of water comes from upstairs -- like a pipe burst or bath broke. Chaos and panic.
+
+---
+
+
+#
+---
+
+[Session 2020.06.14 What Hath Holmgren Wrought or Consequences r](../sessions/notes_matteo_brianedit/Session%202020.06.14%20What%20Hath%20Holmgren%20Wrought%20or%20Consequences%20r.md) -> [Holmgren](TheWik-main/people/Holmgren.md) | 2022-01-19
+-   **HOLMGREN?!?!?!?!** -- discussing where to get diamonds he says FUCK IT and pulls out a massive fucking diamond monstrous/obscene
+
+---
+
+
+#
+---
+
+[Session 2020.06.14 What Hath Holmgren Wrought or Consequences r](../sessions/notes_matteo_brianedit/Session%202020.06.14%20What%20Hath%20Holmgren%20Wrought%20or%20Consequences%20r.md) -> [Holmgren](TheWik-main/people/Holmgren.md) | 2022-01-19
+Holmgren in his bag sees a flower crown he bought to give Tora and it refreshes his memory about who he gave the letter to.
 
 ---

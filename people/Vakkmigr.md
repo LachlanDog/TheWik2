@@ -2,6 +2,7 @@ Race: Frost Giant
 Faction:
 Age:
 Location: [[Frost Giant Fortress]]
+Link: [briza](briza.md)
 
 
 

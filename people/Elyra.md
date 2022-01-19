@@ -2,7 +2,7 @@ Race: [[Entheri]]
 Faction:
 Age:
 Location:
-
+Connections: [Varenzai](Varenzai.md)
 
 
 ---
@@ -22,5 +22,14 @@ Everything feels very disjointed, can’t really focus on them -- hear voices, b
 Visions of thousands and thousands of people, not necessarily people I know, not Entheri, but I hear all kinds of voices from everywhere, gets very very disjointed and painful, piercing, builds, and I take a large amount of Psychic Damage and feel pained.
 
 The petal I plucked to activate the effect fades, and the flower explodes -- assume spell failed, she’s not on this plane.
+
+---
+
+
+#
+---
+
+[Session 2020.03.15 r](../sessions/notes_matteo_brianedit/Session%202020.03.15%20r.md) -> [Elyra](TheWik-main/people/Elyra.md) | 2022-01-19
+-   Heard childhood best friend, remembered romping through wilderness -- eventually as their voice fades he recalls that ill fated jump when I died.
 
 ---

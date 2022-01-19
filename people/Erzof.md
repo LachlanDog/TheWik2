@@ -1,5 +1,5 @@
 Race: Half-orc
-Faction: [[Jerome Crew]]
+Faction: [[Factions/Jerome Crew]]
 Age:
 Location:
 
