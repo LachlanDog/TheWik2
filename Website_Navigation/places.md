@@ -1,12 +1,12 @@
 ## Nymthalas
-[Nymthalas](TheWik-main/places/Nymthalas.md)
+[Nymthalas](../places/Nymthalas.md)
 [Ash_Dust_Arena](../places/Ash_Dust_Arena.md)
 
 
 
 
 ## Kothemar
-[KoThemar](TheWik-main/places/KoThemar.md)
+[KoThemar](../places/KoThemar.md)
 [Gilded_Pillow](../places/Gilded_Pillow.md)
 [Fat_Dragon_Inn](../places/Fat_Dragon_Inn.md)
 [Kira_Habadasherie_Clothing](../places/Kira_Habadasherie_Clothing.md)
