@@ -1,11 +1,15 @@
 Race: Frog
+
 Faction: [[Nymthalas]]
+
 Age:
+
 Location: [[Nymthalas]]
+
 Link: [Penelope](Penelope.md) arena favorite
 
 
----
+
 ---
 # Notes references#
 

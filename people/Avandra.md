@@ -1,5 +1,7 @@
 Race: Assimar
+
 Faction:
+
 Age:
 
 
@@ -7,7 +9,7 @@ Holmgen's possible mom?
 [Holmgren](Holmgren.md)
 
 
----
+
 ---
 # Notes references
 ---
@@ -19,7 +21,6 @@ Holmgen's possible mom?
         
     -   Symbolises change
 
----
 ---
 
 [[Session 2021.05.23 Exploring the Feywild r]] -> [[Avandra]] | 2022-01-18

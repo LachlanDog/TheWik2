@@ -1,5 +1,6 @@
 Link: [Zanzibar](Zanzibar.md) sister
 
+---
 
 # Holmgren
 
@@ -39,10 +40,9 @@ One soldier presents to other sword, surrender?
 
 ---
 
-[[Session 2021.11.14 The Dream Realm r]] -> [[Holmgren]] | 2022-01-17
-After military, before the scattering when they were attacked, killed, scattered to the wind
+[[Session 2021.11.14 The Dream Realm r]] -> [[Holmgren]] | 2022-01-17:
 
-  
+After military, before the scattering when they were attacked, killed, scattered to the wind
 
 “Another time when I didn’t know a lot about the way things were, I wish it had stayed that way.”
 
@@ -53,19 +53,12 @@ After military, before the scattering when they were attacked, killed, scattered
 -   **Holmgren Mentor Name:** **Ezechiel Sansonae**
     
 -   **Holmgren Monastery Religion:** **Eldath**
+***
 
----
+[[Session 2021.11.14 The Dream Realm r]] -> [[Holmgren]] | 2022-01-17:
 
-
----
-
-[[Session 2021.11.14 The Dream Realm r]] -> [[Holmgren]] | 2022-01-17
 **Holmgren Army =** **The Western Army**
 
----
-
-
-#
 ---
 
 [[Session 2021.05.09 Holmgren in the pit r]] -> [[Holmgren]] | 2022-01-18
@@ -73,35 +66,19 @@ A battered and broken man in body, mind, and soul, now literally at rock bottom.
 
 ---
 
-
-#
----
-
 [[Session 2020.11.22 TPK maybe r]] -> [[Holmgren]] | 2022-01-18
 Holmgren is bloodthirsty, smearing blood on his tabard and drowning in a pool to appease his Bitch God [[Umberly]].
 
 ---
 
-
-#
----
-
 [[Session 2020.08.16 The Closed Day r]] -> [[Holmgren]] | 2022-01-18
-Holmgren is attuning with the [[../things/conch]].
+Holmgren is attuning with the [[../things/Conch_Disintergration]].
 
----
-
-
-#
 ---
 
 [Session 2020.07.12 Holmgren the Devil Worshipper r](../sessions/notes_matteo_brianedit/Session%202020.07.12%20Holmgren%20the%20Devil%20Worshipper%20r.md) -> [Holmgren](TheWik-main/people/Holmgren.md) | 2022-01-19
 Holmgren doesn’t know what god he worships -- Lachlan reveals it’s [[Umberlee]] (The Bitch Queen), an evil sea goddess -- destructive and vengeful to both those who love and hate her.
 
----
-
-
-#
 ---
 
 [Session 2020.06.28 Death & Consequences r](../sessions/notes_matteo_brianedit/Session%202020.06.28%20Death%20&%20Consequences%20r.md) -> [Holmgren](TheWik-main/people/Holmgren.md) | 2022-01-19
@@ -111,17 +88,9 @@ While we’re in the lobby a torrent of water comes from upstairs -- like a pipe
 
 ---
 
-
-#
----
-
 [Session 2020.06.14 What Hath Holmgren Wrought or Consequences r](../sessions/notes_matteo_brianedit/Session%202020.06.14%20What%20Hath%20Holmgren%20Wrought%20or%20Consequences%20r.md) -> [Holmgren](TheWik-main/people/Holmgren.md) | 2022-01-19
 -   **HOLMGREN?!?!?!?!** -- discussing where to get diamonds he says FUCK IT and pulls out a massive fucking diamond monstrous/obscene
 
----
-
-
-#
 ---
 
 [Session 2020.06.14 What Hath Holmgren Wrought or Consequences r](../sessions/notes_matteo_brianedit/Session%202020.06.14%20What%20Hath%20Holmgren%20Wrought%20or%20Consequences%20r.md) -> [Holmgren](TheWik-main/people/Holmgren.md) | 2022-01-19

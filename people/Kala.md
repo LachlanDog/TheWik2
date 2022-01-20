@@ -1,3 +1,22 @@
+***
+| Thing       | stuff                                   |
+| ----------- | --------------------------------------- |
+| Race        | Drow                                    |
+| Location    | [Nymthalas](../places/Nymthalas.md)     |
+| Age         | Adult                                   |
+| Disposition | Green                                   |
+| Faction     | [King_Thra’maluil](King_Thra’maluil.md) |
+| Class       | Rogue                                   |
+| Values      |                                         |
+| Wants       |                                         |
+
+***
+| Name           | Connection |
+| -------------- | ---------- |
+| [Lonny](Lonny) | Nephew     |
+| [Zorra](Zorra.md)   | Sister           |
+
+
 Race: Drow
 Faction: [[King_Thra’maluil]]
 Age:
@@ -5,7 +24,6 @@ Location: [[Nymthalas]]
 
 
 
----
 ---
 # Notes references
 2021-12-19-(10-27)
@@ -33,17 +51,9 @@ Good to know thought **Kala Ka’la** is still around, and is a general -- maybe
 
 ---
 
-
-#
----
-
 [[Session 2021.05.09 Holmgren in the pit r]] -> [[Kala]] | 2022-01-18
 We pick up Ka’la’s trail at the bottom of the cavern -- her tracks lead way down deeper in, and then back up the other side of the cliff.
 
----
-
-
-#
 ---
 
 [[Session 2021.04.11 r]] -> [[Kala]] | 2022-01-18
@@ -53,10 +63,6 @@ The creature is dead before, looks cutting open, any semblance of a digestive sy
 
 The other’s are like ‘That bitch! Took our stuff’ but I said that’s basically what we would have done in her case, like party of adventurers goes missing, maybe dead, and leaves behind a bunch of magical items
 
----
-
-
-#
 ---
 
 [[Session 2021.01.17 Where’s Krampus r]] -> [[Kala]] | 2022-01-18
@@ -72,10 +78,6 @@ The elf asks what we’re doing and how many friends she has. Briza says we’re
 
 ---
 
-
-#
----
-
 [[Session 2021.01.17 Where’s Krampus r]] -> [[Kala]] | 2022-01-18
 **Kala** wears very fancy armour, some sort of Elven Mithril. Able to cast spells.
 
@@ -89,26 +91,14 @@ Kala is from Nythm’Thalas
 
 ---
 
-
-#
----
-
 [[Session 2021.01.17 Where’s Krampus r]] -> [[Kala]] | 2022-01-18
 Personal interest in the fortress
 
 ---
 
-
-#
----
-
 [[Session 2021.01.17 Where’s Krampus r]] -> [[Kala]] | 2022-01-18
 Kala is most interested in the areas where Briza couldn’t go
 
----
-
-
-#
 ---
 
 [[Session 2021.01.17 Where’s Krampus r]] -> [[Kala]] | 2022-01-18
@@ -132,10 +122,6 @@ Kala is most interested in the areas where Briza couldn’t go
 
 ---
 
-
-#
----
-
 [[Session 2021.01.17 Where’s Krampus r]] -> [[Kala]] | 2022-01-18
 ### From Persuasion Check (What are you looking for)
 
@@ -145,17 +131,9 @@ Kala is most interested in the areas where Briza couldn’t go
 
 ---
 
-
-#
----
-
 [[Session 2021.01.17 Where’s Krampus r]] -> [[Kala]] | 2022-01-18
 ASK KALA HOW SHE KNOWS BRIZA AND WHAT THIS IS AND DO SOME CHECK ON THE BODY
 
----
-
-
-#
 ---
 
 [[Session 2021.01.17 Briza’s Body r]] -> [[Kala]] | 2022-01-18
@@ -167,10 +145,6 @@ The orb belongs to Nythm’Thalas, as do I, I am returning it. Many thought it w
 
 She denies that it relates to her trials in the Godvale, says she has no desire to be tested there.
 
----
-
-
-#
 ---
 
 [[Session 2021.01.17 Briza’s Body r]] -> [[Kala]] | 2022-01-18

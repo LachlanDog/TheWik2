@@ -1,15 +1,15 @@
 Race:
+
 Faction:
+
 Age:
+
 Location:
 
 
 
 ---
----
 # Notes references
-
-#
 ---
 
 [[Session 2020.11.08 Hints of Brian r]] -> [[Gunnar]] | 2022-01-18

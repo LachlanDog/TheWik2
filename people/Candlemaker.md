@@ -5,7 +5,6 @@ Age: ???
 
 
 ---
----
 # Notes references
 #Coloryellow 
 
@@ -21,9 +20,6 @@ Eventually we see the candlemaker approach
   
 
 Candlemaker comes, we see tons of small lights approach through the dark forest. He’s covered in all sorts of jingle jangling baubles. Candles light behind him in his wake as he walks past
-
----
-
 
 ---
 

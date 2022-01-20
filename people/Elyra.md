@@ -5,11 +5,10 @@ Location:
 Connections: [Varenzai](Varenzai.md)
 
 
----
+
 ---
 # Notes references
 
-#
 ---
 
 [[Session 2021.07.11 The Funeral of Holmgren Grenwold r]] -> [[Elyra]] | 2022-01-18
@@ -23,10 +22,6 @@ Visions of thousands and thousands of people, not necessarily people I know, not
 
 The petal I plucked to activate the effect fades, and the flower explodes -- assume spell failed, she’s not on this plane.
 
----
-
-
-#
 ---
 
 [Session 2020.03.15 r](../sessions/notes_matteo_brianedit/Session%202020.03.15%20r.md) -> [Elyra](TheWik-main/people/Elyra.md) | 2022-01-19

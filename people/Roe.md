@@ -8,12 +8,8 @@ Vola & Lach get to the tower & try to get in, seems like no ones home. They can�
 
 ---
 
-
-#
----
-
 [Session 2020.06.07 The Truth about Aloy & Meteors r](TheWik-main/sessions/notes_matteo_brianedit/Session%202020.06.07%20The%20Truth%20about%20Aloy%20&%20Meteors%20r.md) -> [Roe](Roe.md) | 2022-01-19
-Roe and Aisha are interested but don’t tell us much.
+Roe and [Aisha](../../Aisha.md) are interested but don’t tell us much.
 
 Briza gets a journal she can write in to keep and touch with them.
 
@@ -27,18 +23,11 @@ Aisha: warforged
 
 ---
 
-
-#
----
-
 [Session 2020.06.07 The Truth about Aloy & Meteors r](TheWik-main/sessions/notes_matteo_brianedit/Session%202020.06.07%20The%20Truth%20about%20Aloy%20&%20Meteors%20r.md) -> [Roe](Roe.md) | 2022-01-19
 Ro regrew my arm!
 
 ---
 
-
-#
----
 
 [Session 2020.05.24 The Tower of Horrors r](TheWik-main/sessions/notes_matteo_brianedit/Session%202020.05.24%20The%20Tower%20of%20Horrors%20r.md) -> [Roe](Roe.md) | 2022-01-19
 Roe laughed at Vanuth, said she’s a narc who wants to be popular so that’s why she wants badge to speakeasy (can’t get one cause she’s a narc), I forget why but for some reason agreed to give us some.

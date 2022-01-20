@@ -1,5 +1,5 @@
 Race:
-Faction: [[urithana]]
+Faction: [[Urithana]]
 Age:
 Location: [[Feywild]]
 

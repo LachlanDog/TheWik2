@@ -1,15 +1,31 @@
+***
+| Thing       | stuff                               |
+| ----------- | ----------------------------------- |
+| Race        | Drow                                |
+| Location    | [Nymthalas](../places/Nymthalas.md) |
+| Age         | Adult                               |
+| Disposition | Yellow                              |
+| Faction     |                                     |
+| Class       | ---                                 |
+| Wants       | Diamonds for Queen Resurection      |
+|             |                                     |
+
+
+
 Race: Drow
+
 Faction: [[King_Thra’maluil]]
+
 Age:
+
 Location: [[Nymthalas]]
 
+[Queen_O'iara](Queen_O'iara.md) Ressurection -> Diamonds -> [Aloy](Aloy.md)
+
+[Ice_Queen_Coronet](../things/Ice_Queen_Coronet.md) -> [Feywild_Winter_Court](Feywild_Winter_Court.md) -> [Vorgrim](Vorgrim.md) -> [Briza](Briza.md)
 
 
----
----
-# Notes references#
-
-
+# Notes references
 ---
 
 [[Session 2021.08.22 Dining & Dashing r]] -> [[King_Thra’maluil]] | 2022-01-17
@@ -19,10 +35,6 @@ Location: [[Nymthalas]]
 
 He does sometimes attend [[../places/Ash_Dust_Arena]]
 
----
-
-
-#
 ---
 
 [[Session 2021.01.17 Briza’s Body r]] -> [[King_Thra’maluil]] | 2022-01-18

@@ -1,4 +1,10 @@
-
+| Name                                      | Connection                                           |
+| ----------------------------------------- | ---------------------------------------------------- |
+| [Jadzia_Bronzerock](Jadzia_Bronzerock.md) | [Melvakar_Guardians](Factions/Melvakar_Guardians.md) |
+| [Daveed](Daveed.md)                       | [Melvakar_Guardians](Factions/Melvakar_Guardians.md) |
+| [Jerome](Jerome.md)                       | [Melvakar_Guardians](Factions/Melvakar_Guardians.md) |
+|                                           |                                                      |
+|                                           |                                                      |
 
 #
 ---

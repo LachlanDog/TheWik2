@@ -7,7 +7,9 @@ Location: [[fugue plane]]
 
 ---
 ---
-# Notes references# Dendar
+# Notes references
+
+Dendar
 
 Devours nightmares and fears. Apocolyptic. Craves nightmares. 
 
@@ -20,10 +22,6 @@ is in the [[fugue plane]]
 [[Session 2021.11.14 The Dream Realm r]] -> [[Dendar]] | 2022-01-17
 **Dendar:** Serpent thing that eats nightmares
 
----
-
-
-#
 ---
 
 [[Session 2021.06.06 The Resurrection of Jadzia Bronzerock r]] -> [[Dendar]] | 2022-01-18

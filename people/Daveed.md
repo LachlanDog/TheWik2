@@ -1,9 +1,19 @@
 Race: Half-Orc
-Faction: [[Company_Zero]]
+Faction: [[Factions/Company_Zero]]
 Age:
 Links: [Jadzia_Bronzerock](Jadzia_Bronzerock.md)
 
+| Name                    | Connection  |
+| ----------------------- | ----------- |
+| [Ly’Ara](Ly’Ara.md)     | Wife        |
+| [Octavius](Octavius.md) | Father      |
+| [Aloy](Aloy.md)         | Grandmother |
+|                         |             |
 
+
+
+
+![Daveed](../Attachments/Daveed.png)
 ---
 ---
 # Notes references

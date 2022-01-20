@@ -1,10 +1,12 @@
 Race: ???
-Faction: [[urithana]]
+
+Faction: [[Urithana]]
+
 Age: ???
 
 
 
----
+
 ---
 # Notes references
 
