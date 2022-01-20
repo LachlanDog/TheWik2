@@ -1,45 +1,58 @@
 # List by name
 
-| Name                                                        | Quick Description |
-| ----------------------------------------------------------- | ----------------- |
-| [Aloy](../people/Aloy.md)                                   |                   |
-| [Avandra](../people/Avandra.md)                             |                   |
-| [BuffleWump](../people/BuffleWump.md)                       |                   |
-| [Candlemaker](../people/Candlemaker.md)                     |                   |
-| [Demi](../people/Demi.md)                                   |                   |
-| [Dendar](../people/Dendar.md)                               |                   |
-| [Dimitrius](../people/Dimitrius.md)                         |                   |
-| [Erzof](../people/Erzof.md)                                 |                   |
-| [Grossie](../people/Grossie.md)                             |                   |
-| [Brene_Gorel](../people/Brene_Gorel.md)                   |                   |
-| [Isabella](../people/Isabella.md)                           |                   |
-| [Jerome](../people/Jerome.md)                               |                   |
-| [Jadzia_Bronzerock](../people/Jadzia_Bronzerock.md)                               |                   |
-| [Kala](../people/Kala.md)                                   |                   |
-| [Krampus](../people/Krampus.md)                             |                   |
-| [Octavius](../people/Octavius.md)                           |                   |
-| [[Ozmo]]                                                    |                   |
-| [[Queen O'iara]]                                            |                   |
-| [[Rosie]]                                                   |                   |
-| [Roxanne](../people/Roxanne.md)                             |                   |
-| [Scourge_Undying](../people/Scourge_Undying.md) |                   |
-| [[Scurja]]                                                  |                   |
-| [[King Thra'maluil]]                                        |                   |
-| [urithana](../people/urithana.md)                           |                   |
-| [[Urna]]                                                    |                   |
-| [[Volta]]                                                   |                   |
-| [Vorgrim](../people/Vorgrim.md)                             |                   |
-|                                                             |                   |
-| [Vakkmigr](../people/Vakkmigr.md)                           |                   |
-| [Zanzibar](../people/Zanzibar.md)                           |                   |
-|                                                             |                   |
+| Name                                                | Quick Description | Location |
+| --------------------------------------------------- | ----------------- | -------- |
+| [Aisha](../../Aisha.md)                                                    |                   |          |
+| [Aloy](../people/Aloy.md)                           |                   |          |
+| [Avandra](../people/Avandra.md)                     |                   |          |
+| [BuffleWump](../people/BuffleWump.md)               |                   |          |
+| [Brene_Gorel](../people/Brene_Gorel.md)             |                   |          |
+| [Candlemaker](../people/Candlemaker.md)             |                   |          |
+| [Demi](../people/Demi.md)                           |                   |          |
+| [Dendar](../people/Dendar.md)                       |                   |          |
+| [Dimitrius](../people/Dimitrius.md)                 |                   |          |
+| [Grossie](../people/Grossie.md)                     |                   |          |
+| [Isabella](../people/Isabella.md)                   |                   |          |
+| [Jerome](../people/Jerome.md)                       |                   |          |
+| [Jadzia_Bronzerock](../people/Jadzia_Bronzerock.md) |                   |          |
+| [Kala](../people/Kala.md)                           |                   |          |
+| [King_Thra’maluil](../people/King_Thra’maluil.md)   |                   |          |
+| [Krampus](../people/Krampus.md)                     |                   |          |
+| [Octavius](../people/Octavius.md)                   |                   |          |
+| [[Ozmo]]                                            |                   |          |
+| [Queen_O'iara](../people/Queen_O'iara.md)           |                   |          |
+| [Roe](../people/Roe.md)                             |                   |          |
+| [[Rosie]]                                           |                   |          |
+| [Roxanne](../people/Roxanne.md)                     |                   |          |
+| [Scourge_Undying](../people/Scourge_Undying.md)     |                   |          |
+| [[Scurja]]                                          |                   |          |
+| [Urithana](../people/Urithana.md)                   |                   |          |
+| [[Urna]]                                            |                   |          |
+| [Vakkmigr](../people/Vakkmigr.md)                   |                   |          |
+| [[Volta]]                                           |                   |          |
+| [Vorgrim](../people/Vorgrim.md)                     |                   |          |
+| [Urzof](../people/Urzof.md)                         |                   |          |
+| [Zanzibar](../people/Zanzibar.md)                   |                   |          |
+|                                                     |                   |          |
 
 
 
 
 # Factions
+[Airship_Crew](../people/Factions/Airship_Crew.md)
+
 [Arboreals](../people/Factions/Arboreals.md)
-[Jerome Crew](../people/Factions/Jerome%20Crew.md)
-[airship crew](../people/Factions/airship%20crew.md)
-[Feywild Courts](../people/Factions/Feywild%20Courts.md)
-[Melvakar Guardians](../people/Factions/Melvakar%20Guardians.md)
+
+
+[Entheri](../people/Entheri.md)
+
+
+[Feywild_Courts](../people/Factions/Feywild_Courts.md)
+
+
+[Jerome_Crew](../people/Factions/Jerome_Crew.md)
+
+
+[Melvakar_Guardians](../people/Factions/Melvakar_Guardians.md)
+
+

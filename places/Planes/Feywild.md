@@ -8,26 +8,25 @@ Aliases:
 ---
 
 People:
+
 [[Krampus]]
-[[urithana]]
+
+[[../../people/Urithana]]
 
 
 Places:
 
 
 Things:
-[[Feywild Courts]]
 
-#
+[[../../people/Factions/Feywild_Courts]]
+
+# Notes References
 ---
 
 [[Session 2021.05.23 Exploring the Feywild r]] -> [[Feywild]] | 2022-01-18
 -   6 hours of daylight//30 hours of night
 
----
-
-
-#
 ---
 
 [[Session 2021.05.09 Holmgren in the pit r]] -> [[Feywild]] | 2022-01-18
@@ -55,10 +54,6 @@ Unseelie Court -- winter, evil
 
 Analogous in a way to modrons not being aware of things except those directly above or below them -- the fae know of the existence of things, but find things outside of their own relative power insignificant, ie ‘why would I care about you?’
 
----
-
-
-#
 ---
 
 [[Session 2021.01.17 Briza’s Body r]] -> [[Feywild]] | 2022-01-18

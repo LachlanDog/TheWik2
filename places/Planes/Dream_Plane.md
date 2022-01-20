@@ -12,7 +12,7 @@ Aliases:
 
 Chaotic, not sure if there's any rules.
 
-Not an [[abyss_plane]] of hell, but can be nightmarish.
+Not an [[Abysal_Plane]] of hell, but can be nightmarish.
 
 Weird shifty, sometimes hear music and then it's gone...
 

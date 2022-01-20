@@ -10,10 +10,10 @@
 
 [Things](Website_Navigation/things.md)
 
-[timeline](World/Timeline/timeline.md)
+[Timeline](World/Timeline/Timeline.md)
 
 # Party
-[Briza](people/briza.md)
+[Briza](people/Briza.md)
 
 [Holmgren](people/Holmgren.md)
 
@@ -21,10 +21,10 @@
 
 [Varenzai](people/Varenzai.md)
 
-[Vola](people/vola.md)
+[Vola](people/Vola.md)
 
 ## More
-[Jadzia Bronzerock](people/Jadzia_Bronzerock.md)
+[Jadzia Bronzerock](people/Jadzia_Bronzerock.md) (formerly known to party as [Tora Ziyal](people/Tora_Ziyal.md))
 
 [[History of Shenanigans]]
 
@@ -33,3 +33,9 @@
 
 
 ### Matteo
+
+
+## Playlists
+[Playlists](Website_Navigation/Playlists.md)
+
+## Questions
