@@ -29,6 +29,6 @@ Links: [Vola](Vola.md)
 
 <body>
 
-  <iframe src="../Insights/Brene_Location.md"></iframe>
+  <embed src="../Insights/Brene_Location.md"></embed>
 
 </body>
