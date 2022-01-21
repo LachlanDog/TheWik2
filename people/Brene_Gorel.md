@@ -27,4 +27,4 @@ Links: [Vola](Vola.md)
 ---
 # Notes references
 
-<iframe src="../Insights/Brene_Location">
+![Brene_Location](../Insights/Brene_Location.txt)
