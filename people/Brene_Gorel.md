@@ -27,6 +27,8 @@ Links: [Vola](Vola.md)
 ---
 # Notes references
 
-![farts][1]
+<body>
 
-[1]:<Tora.md>
+![Brene_Location](../Insights/Brene_Location.md)
+
+</body>
