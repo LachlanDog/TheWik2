@@ -24,3 +24,5 @@ Aloy’s needs her body burnt to be her bff but it may have already been burnt
 -   She was prepared, did some necromancy spell to have a clone of her younger self ready when she died, soul went into that body once she passed. People did not like this, that’s why Octavius is mad at her.
 
 ---
+
+![Aloy_Backstory](../Insights/Aloy_Backstory.png)
