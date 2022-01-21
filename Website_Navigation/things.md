@@ -11,6 +11,6 @@
 | [War_Fan_Admiral_Hutztin](../things/War_Fan_Admiral_Hutztin.md)                     |         |
 | [Vampire_Letter](../things/Vampire_Letter.md)       |         |
 | [Void_Dragon_book](../things/Void_Dragon_book.md) |         |
-| [Vorgrim Journal](../things/Vorgrim_Journal.pdf)      |         |
+| ![Vorgrim Journal](../things/Vorgrim_Journal.pdf)      |         |
 |                                                       |         |
 |                                                       |         |
