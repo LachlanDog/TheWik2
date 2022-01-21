@@ -24,7 +24,7 @@
 [Vola](people/Vola.md)
 
 ## More
-<iframe src="people/Jadzia_Bronzerock.html"></iframe> (formerly known to party as [Tora Ziyal](people/Tora_Ziyal.md))
+<embed src="people/Jadzia_Bronzerock.html"> (formerly known to party as [Tora Ziyal](people/Tora_Ziyal.md))
 
 [[History of Shenanigans]]
 
