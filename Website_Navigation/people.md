@@ -6,7 +6,7 @@
 | [Aloy](../people/Aloy.md)                           |                   |          |
 | [Avandra](../people/Avandra.md)                     |                   |          |
 | [BuffleWump](../people/BuffleWump.md)               |                   |          |
-| ![Brene_Gorel](../people/Brene_Gorel.md)             |                   |          |
+| [Brene_Gorel](../people/Brene_Gorel.md)             |                   |          |
 | [Candlemaker](../people/Candlemaker.md)             |                   |          |
 | [Demi](../people/Demi.md)                           |                   |          |
 | [Dendar](../people/Dendar.md)                       |                   |          |
