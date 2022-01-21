@@ -27,6 +27,6 @@ Links: [Vola](Vola.md)
 ---
 # Notes references
 
-![butts][1]
+![farts][1]
 
 [1]:<Tora.md>
