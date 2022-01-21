@@ -27,4 +27,4 @@ Links: [Vola](Vola.md)
 ---
 # Notes references
 
-<embed src="../Insights/Brene_Location.md" src="Tora">
+<embed src="../Insights/Brene_Location.md" src="../people/Tora.md">
