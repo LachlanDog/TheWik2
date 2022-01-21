@@ -29,4 +29,4 @@ Links: [Vola](Vola.md)
 
 ![butts][1]
 
-[1]:<../Tora.html>
+[1]:<Tora.md>
