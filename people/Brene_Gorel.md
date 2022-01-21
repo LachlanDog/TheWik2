@@ -27,4 +27,4 @@ Links: [Vola](Vola.md)
 ---
 # Notes references
 
-<iframe src="../Insights/Brene_ht.md"></iframe>
+![Brene](../Insights/Brene_ht.md)
