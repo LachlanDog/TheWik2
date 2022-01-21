@@ -1,5 +1,5 @@
 # Quests
-<embed src="Website_Navigation/Quests/Main_Quest">
+<embed src="Website_Navigation/Quests/Main_Quest.docx">
 
 [Sidequest List](Website_Navigation/Quests/Sidequests/Sidequest_List.md)
 
