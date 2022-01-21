@@ -1,5 +1,5 @@
 # Quests
-<iframe src="Website_Navigation/Quests/Main_Quest.docx"></iframe>
+<iframe src="Website_Navigation/Quests/Main_Quest.html"></iframe>
 
 [Sidequest List](Website_Navigation/Quests/Sidequests/Sidequest_List.md)
 
