@@ -27,4 +27,4 @@ Links: [Vola](Vola.md)
 ---
 # Notes references
 
-![Brene_Location](../Insights/Brene_Location.md)
+![Brene_Location](../Insights/Brene_ht.md)
