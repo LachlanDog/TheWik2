@@ -8,117 +8,35 @@ Aliases:
 ---
 
 People:
-- [[../people/Scourge_Undying]]
-- [[../people/King_Thra’maluil]]
+- [Scourge_Undying](../people/Scourge_Undying.md)
 
 Places:
-- [[Fat_Dragon_Inn]]
-- Arena
+- [Fat_Dragon_Inn](Fat_Dragon_Inn.md)
+- [Ash_Dust_Arena](Ash_Dust_Arena.md)
 - Ivory Point - Fancier district, less commercial
 - Opal Towers - Fancy shops
 
 Things:
-- [[Godvale]]
+- [Godvale](../things/Godvale.md)
 
- [[../people/King_Thra’maluil]]
+[King_Thra’maluil](../people/King_Thra’maluil.md)
 Lost wife, dead...
+
+[Queen_O'iara](../people/Queen_O'iara.md)
 
 Kings kids arent "all there" mentaly?
 
 
 
 
----
-
-[[Session 2021.08.22 Dining & Dashing r]] -> [[Nymthalas]] | 2022-01-17
-**THEY do not like seeing the diamonds** WARNING FOR NYTHM’THALAS.
+# Notes
+![Nymthalas_Attach](Insights/Attach/Nymthalas_Attach.md)
 
 ---
 
+# Notes 2
+![](../Insights/Attach/2_Pictures4Losers/20220123083333.png)
 
----
+![](../Insights/Attach/2_Pictures4Losers/20220123083347.png)
 
-[[Session 2021.08.22 Dining & Dashing r]] -> [[Nymthalas]] | 2022-01-17
-The first 3 gates go through a mountain, [[The Voiceless Summit]]. The rest go out and go higher and higher to give a high ground. Mountainscape up and behind, so Nythm’Thalas is heavily defensible built around mountains
-
----
-
-
----
-
-[[Session 2021.08.22 Dining & Dashing r]] -> [[Nymthalas]] | 2022-01-17
-Gothic-elvish design, very dark, made of black stone and curved marble
-
-Despite the dark aesthetic the city has a liveliness about it, markets and guilds
-
-Given elves have dark vision, city is sort of darker than a typical city.
-
-  
-
-Lots of elves around, some of other races, but NO DWARVES <3
-
----
-
-
----
-
-[[Session 2021.08.22 Dining & Dashing r]] -> [[Nymthalas]] | 2022-01-17
-Nythm’Thalas is a bureaucracy
-
----
-
-
----
-
-[[Session 2021.08.14 The Relaxation Grotto r]] -> [[Nymthalas]] | 2022-01-17
-Was very well travelled, ‘well, more now’
-
-The ends of the roads are guarded, especially Nythm’Thalas
-
--   Small mountain pass -- Belly of the Voiceless Summit
-    
--   7 gates protect the city, constant guard, made of different things
-    
--   Bounded by dark stone
-    
--   ½ day walk at normal speed
-    
-
-‘A situation between Nythm’Thalas and some surrounding cities’ Many lives were lost, king was adamant about maintaining this aggression until he reached a certain but king thinks his goal is impossible now, so he’s opening Nythm’Thalas to the world again
-
----
-
-
-#
----
-
-[[Session 2021.08.01 The Well of the Candlemaker r]] -> [[Nymthalas]] | 2022-01-18
-Politically more of the same, lots of tension between Ko’Themar and Nythm’Thalas, dwarves aren’t welcome there but we should be able to get in
-
-  
-
-They say it’s ‘lent’ right now in Nythm’Thalas, they’re being boring, [[Brightfather Festival of Spring]] -- Celebrates Corolon
-
----
-
-
-#
----
-
-[[Session 2020.10.25 r]] -> [[Nymthalas]] | 2022-01-18
-**Aerindor** says that there’s almost certainly people in Nythm’Thalas we could ask who know these things, almost all knowledge of anything especially this magic stuff is available there
-
-**Aerindor** says we wouldn’t be arrested or anything when we arrived at **Nythm’Thalas**, but it wouldn’t be like a warm reception or anything. She says we’ll be fine so long as we “Don’t insult the big guy, don’t insult his wife”.
-
----
-
-
-#
----
-
-[Session 2020.08.09 The End of Secrets r](../sessions/notes_matteo_brianedit/Session%202020.08.09%20The%20End%20of%20Secrets%20r.md) -> [Nymthalas](TheWik-main/places/Nymthalas.md) | 2022-01-19
-## Coronet --
-
-the artifact in Nym’Thalas, Jadzia called it this
-
----
+![](../Insights/Attach/2_Pictures4Losers/20220123083401.png)

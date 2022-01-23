@@ -25,7 +25,7 @@ What we think we create? Or at least can fly
 
 
 ---
-> [[Session 2021.11.14 The Dream Realm r]] -> [[Dream_Plane]] | 2022-01-17 **Plane of Dreams**
+[[Session 2021.11.14 The Dream Realm r]] -> [[Dream_Plane]] | 2022-01-17 **Plane of Dreams**
 
 Chaotic
 
@@ -33,15 +33,11 @@ Doesn’t make sense
 
 Not an abyss or plane of hell -- but just like a dream it can be nightmarish
 
----
 
 ---
 
 [[Session 2021.11.14 The Dream Realm r]] -> [[Dream_Plane]] | 2022-01-17
 Landscape is always shifting
-
----
-
 
 ---
 

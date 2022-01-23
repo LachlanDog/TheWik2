@@ -9,9 +9,11 @@ Aliases:
 
 People:
 
-[[Krampus]]
 
-[[../../people/Urithana]]
+[Krampus](../../people/Krampus.md)
+
+
+[UrithanaR](../../people/UrithanaR.md)
 
 
 Places:
@@ -19,7 +21,8 @@ Places:
 
 Things:
 
-[[../../people/Factions/Feywild_Courts]]
+
+[Feywild_Courts](../../people/Factions/Feywild_Courts.md)
 
 # Notes References
 ---

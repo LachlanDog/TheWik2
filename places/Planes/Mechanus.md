@@ -12,12 +12,16 @@ Aliases:
 
 People:
 
+
 Places:
 
-Things:
-[[../../things/Mechanus_Portals]]
 
-#
+Things:
+
+
+[Mechanus_Portals](../../things/Mechanus_Portals.md)
+
+
 ---
 
 [[Session 2021.04.11 r]] -> [[Mechanus]] | 2022-01-18
@@ -25,17 +29,9 @@ Lachlan can control the modrons, but does not give specific enough instructions 
 
 ---
 
-
-#
----
-
 [[Session 2021.04.11 r]] -> [[Mechanus]] | 2022-01-18
 Mechanus Prison: 101.101
 
----
-
-
-#
 ---
 
 [[Session 2021.04.11 r]] -> [[Mechanus]] | 2022-01-18
