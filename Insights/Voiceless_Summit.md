@@ -1,0 +1,2 @@
+[[Session 2021.08.22 Dining & Dashing r]] -> [[../places/Nymthalas]] | 2022-01-17
+The first 3 gates go through a mountain, [[The Voiceless Summit]]. The rest go out and go higher and higher to give a high ground. Mountainscape up and behind, so Nythm’Thalas is heavily defensible built around mountains
