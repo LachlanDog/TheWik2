@@ -22,7 +22,7 @@
 
 [Bhalgozul](../places/Bhalgozul.md)
 
-[Frost_Giant_Fortress](../places/Frost_Giant_Fortress.md)
+[Frost_Giant_FortressR](../places/Frost_Giant_FortressR.md)
 
 [Kurnfaldur_West_Capital](../places/Kurnfaldur_West_Capital.md)
 
@@ -34,16 +34,22 @@
 [Orilon](../places/Orilon.md)
 
 
-[Karkoldur Desert](../places/Karkoldur%20Desert.md)
+[Karkoldur_Desert](../places/Karkoldur_Desert.md)
 
 
 
 # Planes
-![WheelOfPlanes](../Attachments/WheelOfPlanes.png)
+
+![WheelOfPlanes](../Attachments/Wheel_Planes.png)
+
+
 [Abysal plane](../places/Planes/Abysal_Plane.md)
+
 
 [Dream_Plane](../places/Planes/Dream_Plane.md)
 
+
 [Feywild](../places/Planes/Feywild.md)
+
 
 [Mechanus](../places/Planes/Mechanus.md)

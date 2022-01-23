@@ -14,5 +14,5 @@ Artifacts:
 
 
 ## How
-[Jadzia_Bronzerock](../../people/Jadzia_Bronzerock.md) Compass
+[Jadzia_BronzerockR](../../people/Jadzia_BronzerockR.md) Compass
 Her invention I believe she told us?
