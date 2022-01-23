@@ -37,6 +37,6 @@
 
 ## Playlists
 
-[Playlists](Website_Navigation/Playlists.md)
+[Playlists]
 
 ## Questions
