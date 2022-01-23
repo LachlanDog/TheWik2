@@ -13,4 +13,4 @@
 | [Void_Dragon_book](../things/Void_Dragon_book.md)               |         |
 | [Vorgrim Journal](../Attachments/Vorgrim_Journal.pdf)           |         |
 |                                                                 |         |
-|                                                                 |         |
+|       [Godvale](../things/Godvale.md)                                                          |         |
