@@ -1,6 +1,6 @@
 # Notes
 
-[A_Free_Enthari](Insights/A_Free_Enthari.md)
+[A_Free_Enthari](../Insights/A_Free_Enthari.md)
 
 [Entheri_reunite](Insights/Entheri_reunite.md)
 
