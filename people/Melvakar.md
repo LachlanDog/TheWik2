@@ -1,12 +1,5 @@
-#
----
+# Notes
 
-[[Session 2021.05.23 Exploring the Feywild r]] -> [[Melvakar]] | 2022-01-18
-Dark, grey, long spindly-clawed hands, two horns off of head angled off side, white pits of eyes, goat-like face, matted hair all the way down body
+![Melvakar_Description](Insights/Melvakar_Description.md)
 
----
-
-[[Session 2021.05.09 Holmgren in the pit r]] -> [[Melvakar]] | 2022-01-18
-IMPORTANT TO INVESTIGATE: Melvakar is a powerful fey, creating chaos and discord through wars and stuff -- at all connected to all the turmoil and bad amongst my people???
-
----
+![Melvakar_investigate](Insights/Melvakar_investigate.md)

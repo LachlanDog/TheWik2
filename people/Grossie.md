@@ -12,40 +12,12 @@ tags: [" #0 "]
 Aliases:
 - 
 ---
+#ColorGreen
 # Grossie
 2021-10-31-(17-02)
 
----
-#ColorGreen
+# Notes
 
+![Grossie_home](Insights/Grossie_home.md)
 
-Mechanus: Start with peyote trips.
-
-Hot Orc’s (Vakgar) sister will be our guide? Her name is Grossie
-
--   Vakgar works in building 17 
-    
--   Grossie is also hot
-    
--   Thief/artificer thing? Badass, knows her way around, likes mechanus
-    
-
-Grossie’s home:
-
--   Really cool place! Lots of herbs and stuff and plants dried and living hanging. Big meat spinning on spit. Bead door to small room.
--   Lots of fish in bowls.
--   3 HALF orcs come and go: Grossie, Vakgar, and an older male Half-Orc
-    
-
----
-
-[Session 2020.03.15 r](../sessions/notes_matteo_brianedit/Session%202020.03.15%20r.md) -> [Grossie](TheWik-main/people/Grossie.md) | 2022-01-19
-Hot Orc’s (Vakgar) sister will be our guide? Her name is Grossie
-
--   Vakgar works in building 17
-    
--   Grossie is also hot
-    
--   Thief/artificer thing? Badass, knows her way around, likes mechanus
-
----
+![Grossie_also_hot](Insights/Grossie_also_hot.md)

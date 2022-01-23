@@ -6,7 +6,7 @@ Age:
 
 
 Holmgen's possible mom?
-[Holmgren](Holmgren.md)
+[HolmgrenR](HolmgrenR.md)
 
 
 
@@ -21,6 +21,7 @@ Holmgen's possible mom?
         
     -   Symbolises change
 
+
 ---
 
 [[Session 2021.05.23 Exploring the Feywild r]] -> [[Avandra]] | 2022-01-18
@@ -32,12 +33,13 @@ Long blond hair, slightly grey
 
 Magnificent sword in hand
 
-Old man, armour matches design of her sword -- skeletal wings [[Lyregren]]
+Old man, armour matches design of her sword -- skeletal wings [[../Insights/Lyregren]]
 
 “Avadra, 3 seconds”
 
 And then they both lash out in time against some invisible creature, shifting in the darkness, incorporeal
 
 Finally, a vision of some dragon -- A VOID DRAGON
+
 
 ---

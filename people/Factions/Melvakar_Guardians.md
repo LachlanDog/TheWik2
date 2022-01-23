@@ -1,6 +1,6 @@
-[Daveed](../Daveed.md)
+[DaveedR](../DaveedR.md)
 [Jerome](../Jerome.md)
-[Jadzia_Bronzerock](../Jadzia_Bronzerock.md)
+[Jadzia_BronzerockR](../Jadzia_BronzerockR.md)
 [Bolero](../Bolero.md)
 
 
@@ -31,3 +31,4 @@ IT’S HAPPENING SHE SAID MELVAKAR! (Sylvan for Dul’Lahan, archfey dude).
 Dullahan in Dwarvish, Majesty of the Feydark, King of the Empty Court, The Twisted Spine, Melvakar in old Elvish, Kararktos in Draconic
 
 ---
+![Bolero_Conversation](../../Insights/Bolero_Conversation.md)

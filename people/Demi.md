@@ -23,19 +23,9 @@ Location: [[../places/Immortal_Sanctum]]
 Links: [Dimitrius](Dimitrius.md)
 
 
+#ColorGreen 
 
 ---
 # Notes references
 
----
-
-#ColorGreen 
-
-
-
----
-
-[[Session 2021.08.14 The Relaxation Grotto r]] -> [[Demi]] | 2022-01-17
-**Demmy is 14**
-
----
+![Demi_14](Insights/Demi_14.md)

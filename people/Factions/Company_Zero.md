@@ -3,9 +3,9 @@ fucking daveed horseshit
 holmgren metors from sky, mrs s
 
 [Holmgren](TheWik-main/people/Holmgren.md)
-[Lachlan_Willows](Lachlan_Willows.md)
-[Vola](Vola.md)
-[Jadzia_Bronzerock](Jadzia_Bronzerock.md)
+[Lachlan_WillowsR](../Lachlan_WillowsR.md)
+[VolaR](../VolaR.md)
+[Jadzia_BronzerockR](../Jadzia_BronzerockR.md)
 
 
 #

@@ -14,17 +14,19 @@
 Race: 
 Faction:
 Age:
-Links: [Vola](Vola.md)
+Links: [VolaR](VolaR.md)
 
 ***
 | Name            | Connection |
 | --------------- | ---------- |
-| [Vola](Vola.md) | "Friends"  |
+| [VolaR](VolaR.md) | "Friends"  |
 |                 |            |
 
 
 
----
+	---
 # Notes references
 
-![Brene_Location](../Insights/Brene_Location.pdf)
+![Brene_attach](../1_Embeds4Me/Brene_attach.md)
+
+![](../Insights/Attach/2_Pictures4Losers/20220122043339.png)

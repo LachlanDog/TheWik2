@@ -1,24 +1,12 @@
 Race: Drow
 Faction: [[King_Thra’maluil]]
 Age:
-Location: [[Nymthalas]]
+Location: [[../places/Nymthalas]]
 
 
 ---
 ---
 # Notes references
-#
----
 
-[[Session 2021.08.22 Dining & Dashing r]] -> [[Elemmakil]] | 2022-01-17
-[[Elemmakil]].
+![Elemmakil_helpful](Insights/Elemmakil_helpful.md)
 
-  
-
-She recommends we stay at **The Beautiful Fox,** north of Rimecrest.
-
-She’s not being snarky or anything, but is amused like we’re a caricature of foreigner’s visiting.
-
-She gets us a map, the guards are very formal and disciplined, but can see they resent little duties like getting a map
-
----

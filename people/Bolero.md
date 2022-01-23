@@ -1,7 +1,7 @@
 | Name                                      | Connection                                           |
 | ----------------------------------------- | ---------------------------------------------------- |
-| [Jadzia_Bronzerock](Jadzia_Bronzerock.md) | [Melvakar_Guardians](Factions/Melvakar_Guardians.md) |
-| [Daveed](Daveed.md)                       | [Melvakar_Guardians](Factions/Melvakar_Guardians.md) |
+| [Jadzia_BronzerockR](Jadzia_BronzerockR.md) | [Melvakar_Guardians](Factions/Melvakar_Guardians.md) |
+| [DaveedR](DaveedR.md)                       | [Melvakar_Guardians](Factions/Melvakar_Guardians.md) |
 | [Jerome](Jerome.md)                       | [Melvakar_Guardians](Factions/Melvakar_Guardians.md) |
 |                                           |                                                      |
 |                                           |                                                      |
@@ -15,17 +15,9 @@
 
 ---
 
-
-#
----
-
 [Session 2020.06.14 What Hath Holmgren Wrought or Consequences r](TheWik-main/sessions/notes_matteo_brianedit/Session%202020.06.14%20What%20Hath%20Holmgren%20Wrought%20or%20Consequences%20r.md) -> [Bolero](Bolero.md) | 2022-01-19
 **IMPORTANT CORRECTION:** I completely misunderstood the connection with Bolero vs. Greyson -- Bolero was just there coincidentally, HE WAS NOT Greyson like I thought, he was just also there -- so like all my other plans still coulda worked or whatever.
 
----
-
-
-#
 ---
 
 [Session 2020.06.07 The Truth about Aloy & Meteors r](TheWik-main/sessions/notes_matteo_brianedit/Session%202020.06.07%20The%20Truth%20about%20Aloy%20&%20Meteors%20r.md) -> [Bolero](Bolero.md) | 2022-01-19

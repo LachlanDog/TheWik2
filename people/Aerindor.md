@@ -16,21 +16,12 @@ Made a deal with **Aerindor** for **[[Walkie-Talkie Earrings]]**
 # Note references
 ---
 
-[[Session 2020.12.13 Fuck, I’m tired r]] -> [[Aerindor]] | 2022-01-18
-I try to verify where we’re going and make my own notations on [[Aerindor]]’s map as we go, I see she hasn’t been this way -- I make my own notes on it to fill in.
+![Aerindor_map](../Insights/Aerindor_map.md)
 
----
+![Walkie_Talkie](Insights/Walkie_Talkie.md)
 
-[[Session 2020.10.25 r]] -> [[Aerindor]] | 2022-01-18
-Deal with **Aerindor** for **[[Walkie-Talkie Earrings]]**
+![Court_Stars_2](Insights/Court_Stars_2.md)
 
--   Go to [[../places/Sime_Tolic_East_Capital]] or [[../places/Kurnfaldur_West_Capital]]
-    
--   She gave us something to deliver to either a **goblin named Gring Jo** or a **dragonborn named Kaleb**
+# Other Notes
 
----
-
-[[Session 2020.08.16 The Closed Day r]] -> [[Aerindor]] | 2022-01-18
-[[Court of stars]] -- Nym’Thalas (This is how **Aerindor** describes Nym’Thalas, navigator of airship)
-
----
+![](../Insights/Attach/2_Pictures4Losers/20220122044242.png)

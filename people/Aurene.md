@@ -1,7 +1,7 @@
 Race: Dragon
 Faction: N/A
 Age: Baby
-[Varenzai](Varenzai.md)
+[VarenzaiR](VarenzaiR.md)
 
 
 ---
@@ -23,5 +23,6 @@ Can’t speak yet, so she probably needs a lot of care right now
 Dragons are not pets, they are sentient, but they can be companions, bond and companionship, very smart, can tell when being treated like a pet
 
 Raise her as a guardian, like her adoptive parent, not as a pet
+
 
 ---
