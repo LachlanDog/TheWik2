@@ -1,5 +1,5 @@
 # Quests
-![Main_Quest](Website_Navigation/Quests/Main)
+[Main Quest](Website_Navigation/Quests/Main_Quest.md)
 
 [Sidequest List](Website_Navigation/Quests/Sidequests/Sidequest_List.md)
 
@@ -15,16 +15,16 @@
 # Party
 [Briza](people/Briza.md)
 
-[Holmgren](people/Holmgren.md)
+[HolmgrenR](people/HolmgrenR.md)
 
-[Lachlan Willows](people/Lachlan_Willows.md)
+[Lachlan Willows](people/Lachlan_WillowsR.md)
 
-[Varenzai](people/Varenzai.md)
+[VarenzaiR](people/VarenzaiR.md)
 
-[Vola](people/Vola.md)
+[VolaR](people/VolaR.md)
 
 ## More
-[Jadzia_Bronzerock](people/Jadzia_Bronzerock.md) (formerly known to party as [Tora_Ziyal](people/Tora_Ziyal.md)
+[Jadzia Bronzerock](people/Jadzia_BronzerockR.md) (formerly known to party as [Tora Ziyal](people/Tora_Ziyal.md))
 
 [[History of Shenanigans]]
 
@@ -36,6 +36,7 @@
 
 
 ## Playlists
-[[Playlists]]
+
+[Playlists](Website_Navigation/Playlists.md)
 
 ## Questions
