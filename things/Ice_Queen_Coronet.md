@@ -1,9 +1,11 @@
-[Queen_O'iara](TheWik-main/people/Queen_O'iara.md)
+# Artifact
 
-[Queen_Winter_Court](TheWik-main/people/Queen_Winter_Court.md)
+[Queen_O'iara](../people/Queen_O'iara.md)
 
-[Vorgrim](TheWik-main/people/Vorgrim.md)
+[Queen_Winter_Court](../people/Queen_Winter_Court.md)
 
-[Briza](TheWik-main/people/Briza.md)
+[Vorgrim](../people/Vorgrim.md)
 
-[King_Thra’maluil](TheWik-main/people/King_Thra’maluil.md)
+[Briza](../people/Briza.md)
+
+[King_Thra’maluil](../people/King_Thra’maluil.md)
