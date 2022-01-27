@@ -1,8 +1,0 @@
-- [Ash & Dust Arena](Ash%20&%20Dust%20Arena.md)
-- [Fat Dragon Inn](Fat%20Dragon%20Inn.md)
-- [Frost Giant Fortress](Frost%20Giant%20Fortress.md)
-- [KoThemar](KoThemar.md)
-- [Kurnfaldur (West Capital)](Kurnfaldur%20(West%20Capital).md)
-- [Nymthalas](Nymthalas.md)
-- [Sime Tolic (East Capital)](Sime%20Tolic%20(East%20Capital).md)
-- [the Immortal Sanctum](the%20Immortal%20Sanctum.md)

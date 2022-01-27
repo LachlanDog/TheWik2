@@ -1,1 +1,0 @@
-![Karkoldur desert](TheWik-main/Attachments/Karkoldur%20desert.png)
