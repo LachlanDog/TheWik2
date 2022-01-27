@@ -1,1 +1,0 @@
-![Avandra_Vision](TheWik-main/Insights/Avandra_Vision.md)
