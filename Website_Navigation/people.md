@@ -1,3 +1,8 @@
+---
+title: people
+permalink: /peopleNav/
+---
+
 # List by name
 
 | Name                                                                    | Quick Description                       | Location                                                |
